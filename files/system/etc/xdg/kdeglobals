@@ -1,0 +1,7 @@
+[General]
+ColorScheme=ForgeDark
+Name=Forge OS
+widgetStyle=Breeze
+
+[KDE]
+LookAndFeelPackage=org.kde.breeze.desktop
