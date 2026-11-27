@@ -5,3 +5,6 @@ widgetStyle=Breeze
 
 [KDE]
 LookAndFeelPackage=org.kde.breeze.desktop
+
+[Icons]
+Theme=breeze-dark
